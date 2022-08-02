@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\AIT\AIT June-Aug 2022\Basic Game Engine\Ancient_Isle_of_Masks4.1\GameEngine\GameEngine\main.cpp(86,29): warning C4553: '==': result of expression not used; did you intend '='?
+D:\AIT\AIT June-Aug 2022\Basic Game Engine\Ancient_Isle_of_Masks4.1\GameEngine\GameEngine\main.cpp(86,61): warning C4553: '==': result of expression not used; did you intend '='?
+D:\AIT\AIT June-Aug 2022\Basic Game Engine\Ancient_Isle_of_Masks4.1\GameEngine\GameEngine\main.cpp(165,6): warning C4552: '!': result of expression not used
+  GameEngine.vcxproj -> D:\AIT\AIT June-Aug 2022\Basic Game Engine\Ancient_Isle_of_Masks4.1\GameEngine\Debug\GameEngine.exe
