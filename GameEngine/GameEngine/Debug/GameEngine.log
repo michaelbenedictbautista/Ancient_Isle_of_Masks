@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\AIT\AIT June-Aug 2022\Basic Game Engine\Ancient_Isle_of_Masks\GameEngine\GameEngine\main.cpp(426,17): warning C4552: '+': result of expression not used
+  GameEngine.vcxproj -> D:\AIT\AIT June-Aug 2022\Basic Game Engine\Ancient_Isle_of_Masks\GameEngine\Debug\GameEngine.exe
